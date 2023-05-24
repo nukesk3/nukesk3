@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🔫 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,java,kotlin,androidstudio,dart,flutter,laravel,symfony,wordpress,php,mysql,py,ts,js,html,css,jquery,nodejs,firebase,docker,aws,nginx,git,github,gitlab,xd,vscode" />
+
 
 <!--
 **nukesk3/nukesk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
